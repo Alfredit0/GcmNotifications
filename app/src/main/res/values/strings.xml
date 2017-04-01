@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GcmNotifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="arranque">Al arrancar la aplicación se produce el registro en los servicios de Google Cloud Message</string>
+</resources>
