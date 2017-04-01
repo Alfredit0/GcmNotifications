@@ -35,7 +35,7 @@ import java.net.URI;
 public class MainActivity extends AppCompatActivity {
     // Url del servicio REST que se invoca para el envio del identificador de
     // registro a la aplicación jee
-    public static final String URL_REGISTRO_ID = "http://9dd083bf.ngrok.io/unsis/sendnotification";
+    public static final String URL_REGISTRO_ID = "https://8456d818.ngrok.io/unsis/sendnotification";
     // Seña númerica que se utiliza cuando se verifica la disponibilidad de los
     // google play services
     private static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
